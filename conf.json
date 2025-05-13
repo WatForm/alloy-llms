@@ -1,0 +1,13 @@
+{
+	"download_command":"curl -L",
+	"java_command":"java",
+	
+	"Alloy_6":{
+		"link":"https://github.com/AlloyTools/org.alloytools.alloy/releases/download/v6.2.0/org.alloytools.alloy.dist.jar",
+		"jar":"6.jar"
+	},
+	"Alloy_5":{
+		"link":"https://github.com/AlloyTools/org.alloytools.alloy/releases/download/v5.1.0/org.alloytools.alloy.dist.jar",
+		"jar":"5.jar"
+	}
+}
