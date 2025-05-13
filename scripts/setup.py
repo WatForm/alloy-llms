@@ -3,8 +3,6 @@ Sets up Alloy .jar files in ./tools, no arguments required. Downloads from links
 """
 from lib import *
 
-with open("./conf.json") as f:
-	config = json.load(f)
 
 
 download(config["Alloy_6"]["link"],"./tools/"+config["Alloy_6"]["jar"])
